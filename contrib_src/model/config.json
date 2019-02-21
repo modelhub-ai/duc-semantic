@@ -43,7 +43,7 @@
       "output": [
         {
           "name": "segmentation map",
-          "type": "heatmap_",
+          "type": "heatmap",
           "description": "Segmentation map showing color maps for the categories in the cityscapes dataset."
         }
       ]
