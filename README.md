@@ -24,6 +24,7 @@ This repository hosts the contributor source files for the duc-semantic model. M
 | | |
 |-|-|
 | description | DUC is a semantic segmentation model. It is benchmarked using the mIOU (mean Intersection Over Union) score and can be used in any application requiring semantic segmentation. It is trained on the cityscapes dataset which contains images from urban street scenes. Hence, it can be used in self driving vehicle applications. | 
+| provenance | https://github.com/onnx/models/tree/master/models/semantic_segmentation/DUC |
 | architecture | Convolutional Neural Network (CNN) | 
 | learning_type | Supervised learning | 
 | format | .onnx | 
